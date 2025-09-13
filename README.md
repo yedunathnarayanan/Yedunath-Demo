@@ -158,21 +158,6 @@ app/src/main/java/com/demo/yedunath_demo/
 - Proper error handling with Resource wrapper
 - Coroutines for asynchronous operations
 
-## 🧪 Testing
-
-Run tests using:
-
-```bash
-# Unit tests
-./gradlew test
-
-# Instrumented tests
-./gradlew connectedAndroidTest
-
-# All tests
-./gradlew check
-```
-
 ### Test Coverage
 - **ViewModels**: Business logic and state management
 - **Use Cases**: Domain layer business rules
@@ -185,13 +170,9 @@ Run tests using:
 - **Debug**: Development build with logging enabled
 - **Release**: Production build with optimizations
 
-### API Configuration
-- Base URL and endpoints configured in `NetworkModule`
-- Logging interceptor for debugging network calls
 
 ## 📱 Screenshots
 
-*Add screenshots of your app here*
 
 ## 🤝 Contributing
 
@@ -200,6 +181,8 @@ Run tests using:
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
+<img width="1080" height="2424" alt="Screenshot_20250913_195223" src="https://github.com/user-attachments/assets/ab7d5432-178e-4500-9a78-4cba9aafc559" />
+<img width="1080" height="2424" alt="Screenshot_20250913_195216" src="https://github.com/user-attachments/assets/2bea6eba-720b-4ded-b69e-557ed191ecc5" />
 
 ## 📄 License
 
