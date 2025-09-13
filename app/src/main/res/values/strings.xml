@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Yedunath_Demo</string>
+    
+    <!-- Holdings Adapter -->
+    <string name="ltp_prefix">LTP: ₹ </string>
+    <string name="pl_prefix">PL: ₹ </string>
+    
+    <!-- Portfolio Fragment -->
+    <string name="tab_positions">POSITIONS</string>
+    <string name="tab_holdings">HOLDINGS</string>
+    <string name="currency_prefix">₹ </string>
+    <string name="percentage_format">(%s%%)</string>
+</resources>
