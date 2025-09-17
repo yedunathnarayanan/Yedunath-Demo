@@ -174,26 +174,3 @@ app/src/main/java/com/demo/yedunath_demo/
 ## 📱 Screenshots
 
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-<img width="1080" height="2424" alt="Screenshot_20250913_195223" src="https://github.com/user-attachments/assets/ab7d5432-178e-4500-9a78-4cba9aafc559" />
-<img width="1080" height="2424" alt="Screenshot_20250913_195216" src="https://github.com/user-attachments/assets/2bea6eba-720b-4ded-b69e-557ed191ecc5" />
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👨‍💻 Author
-
-**Yedunath**
-- Portfolio management and financial applications specialist
-- Clean Architecture and Android development expert
-
----
-
-*Built with ❤️ using modern Android development practices*
