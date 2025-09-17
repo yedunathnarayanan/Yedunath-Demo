@@ -173,6 +173,6 @@ app/src/main/java/com/demo/yedunath_demo/
 
 
 ## 📱 Screenshots
-<img width="276" height="300" alt="Screenshot 2025-09-13 at 8 25 30 AM" src="https://github.com/user-attachments/assets/65aefbd6-c6b3-41b1-b403-fd692da4fc20" />
-<img width="244" height="300" alt="Screenshot 2025-09-13 at 1 06 34 PM" src="https://github.com/user-attachments/assets/6acbe932-de7f-4e23-995d-72c53c614528" />
+<img width="222" height="300" alt="Screenshot 2025-09-13 at 8 25 30 AM" src="https://github.com/user-attachments/assets/65aefbd6-c6b3-41b1-b403-fd692da4fc20" />
+<img width="200" height="300" alt="Screenshot 2025-09-13 at 1 06 34 PM" src="https://github.com/user-attachments/assets/6acbe932-de7f-4e23-995d-72c53c614528" />
 
